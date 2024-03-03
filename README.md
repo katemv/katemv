@@ -10,8 +10,7 @@ An experienced Frontend Engineer with over 5 years of expertise in software deve
 📫  You can contact me at [mvkatt@gmail.com](mailto:mvkatt@gmail.com)<br/>
 🚀  I'm currently working on [Online Shop App](http://mvkatt.dev/shop)<br/>
 🌱  I'm currently learning Node.js & DSA<br/>
-👯  I'm open to collaborating on projects<br/>
-⚡  Breaking hearts, not code. 💻❤️
+⚡  Breaking hearts, not code 💻❤️
 
 ### Skills 
 
