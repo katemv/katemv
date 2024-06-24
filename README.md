@@ -5,13 +5,6 @@ Hi 👋 My name is Kateryna
 
 An experienced Frontend Developer with over 5 years of expertise in software development specializing in React, JavaScript, and TypeScript. Skilled in translating design concepts into responsive and user-friendly web applications. Strong advocate for clean code and optimal performance. Collaborative team player with a passion for staying current with industry trends and sharing insights.
 
-🌍  I'm based in Canada<br/>
-🖥️  See my portfolio at [mvkatt.dev](http://mvkatt.dev)<br/>
-📫  You can contact me at [mvkatt@gmail.com](mailto:mvkatt@gmail.com)<br/>
-🚀  I'm currently working on [Online Shop App](http://mvkatt.dev/shop)<br/>
-🌱  I'm currently learning Node.js & DSA<br/>
-⚡  Breaking hearts, not code 💻❤️
-
 ### Skills 
 
 <p align="left">
