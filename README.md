@@ -3,7 +3,11 @@ Hi 👋 My name is Kateryna
 
 ### Frontend Developer
 
-An experienced Frontend Developer with over 5 years of expertise in software development specializing in React, JavaScript, and TypeScript. Skilled in translating design concepts into responsive and user-friendly web applications. Strong advocate for clean code and optimal performance. Collaborative team player with a passion for staying current with industry trends and sharing insights.
+An experienced Software Engineer with expertise in software development specializing in
+React, JavaScript, and TypeScript. Skilled in translating design concepts into responsive and
+user-friendly web applications. Strong advocate for clean code and optimal performance.
+Collaborative team player with a passion for staying current with industry trends and sharing
+insights.
 
 ### Skills 
 
